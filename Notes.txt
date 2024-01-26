@@ -1,7 +1,7 @@
 How to create a github repository without opening the browser
 
 Step -1
-
+Have GitBash on your computer because its awesome
 Download Github CLI from https://cli.github.com/
 
 Step 0
